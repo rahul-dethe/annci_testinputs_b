@@ -1,0 +1,7 @@
+Welcome to the One-Day User Training Workshop on Materials and Computational Chemistry Software: ANN-CI – a machine learning (artificial neural network) based software for the selected configuration interaction method.
+
+Below are few useful commands:
+
+module load cdac/MSCC/ann-ci             #To load the software
+sbatch name_of_your_jobfile.sh		 #To submit the job file
+squeue --me				 #To check the status of your submitted job
